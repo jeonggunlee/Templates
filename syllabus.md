@@ -10,7 +10,7 @@
    * 이메일: XXXX.hallym.ac.kr
 
 ## 수업 정보
-* 수업 시간: 13:00 pm~16:00 pm Every Friday
+* 수업 시간: 화요일, 목요일 13:00 pm~16:00 pm.
 * 강의실: 1101A, 성호관
 * 면담 시간: 언제든지.
 
@@ -30,7 +30,7 @@
 ## 교과 스케줄
 * **1 week- 교과목 소개**
    * XXX 
-   * Lab: xxxx
+   * **Lab**: xxxx
 * **2 week- XXX**
    * YYY
    * ZZZ
