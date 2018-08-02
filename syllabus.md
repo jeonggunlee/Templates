@@ -10,10 +10,9 @@
    * 이메일: XXXX.hallym.ac.kr
 
 ## 수업 정보
-   * 수업 시간: 13:00 pm~16:00 pm Every Friday
-   * 강의실: 1101A, 성호관
-   * 면담 시간: 언제든지.
-   * Email: xxx@hallym.ac.kr = 과제 및 프로젝트 관련 질의
+* 수업 시간: 13:00 pm~16:00 pm Every Friday
+* 강의실: 1101A, 성호관
+* 면담 시간: 언제든지.
 
 ## 교과목 공지사항
 * 5월 6일: xxx
