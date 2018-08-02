@@ -9,11 +9,11 @@
    * 연구실: 성호관 XXXX
    * 이메일: XXXX.hallym.ac.kr
 
-**수업 정보**
+## 수업 정보
    * 수업 시간: 13:00 pm~16:00 pm Every Friday
    * 강의실: 1101A, 성호관
    * 면담 시간: 언제든지.
-   * [Email](xxx@hallym.ac.kr) 과제 및 프로젝트 관련
+   * Email: xxx@hallym.ac.kr = 과제 및 프로젝트 관련 질의
 
 ## 교과목 설명
 
@@ -46,28 +46,28 @@
 * 6 week- dddd
    * XXX 
    * Quiz 1 
-* 7 week- Development Process I - Build, Release, Documentation, Translation
-   * Documentation: Source document(README, ChangeLog? etc.), Wiki
-   * Localization: i18n/L10n tool (gettext)
-   * Labs: Making Project Groups 
-* 8 week- Development Process II - Developer Communication
-   * Practice for Bug tracking, patch
-   * Developer communication and code convention
-* 9 week-  Mid-term Exam
-* 10 week- Community in action
-   * Invited speaker of global OSS developer
-   * Invited speaker of local OSS community leader 
-* 11 week-  Lab Project Introduction
-   * Kinds of 8 weeks team project
-   * Code contribution: TextCube?, XE, Daum Open Editor
-   * Localization: Mozilla SUMO, Dreambit
-   * Community building 
-* 12 week- Open Source Software License
-   * Kinds and usages of OSS License 
-   * Quiz 2 
-* 13 week- Research topic in Open Source Software
-   * Software engineering and OSS 
-* 14 week- Final-term Exam Lab Project Presentation 
+* 7 week- xxx
+   * xxx
+   * xxx
+   * Labs: xxx
+* 8 week- xxx
+   * xxx
+   * xxxx
+* 9 week-  xxx
+* 10 week- xxx
+   * xxx
+   * xxx
+* 11 week-  xxx
+   * xxx
+   * xxx
+   * xxxx
+   * xxx
+* 12 week- xxx
+   * xxx
+   * xxx
+* 13 week- xxx
+   * xxx
+* 14 week- 기말고사 및 프로젝트 발표
 
 ## 평가
 * 시험: 30%
@@ -76,11 +76,11 @@
 * 출석: 10%
 
 ## 과제 / 프로젝트
-
 * XXX
 * XXX
 *** 타인의 과제를 복제하는 경우 과제 점수를 0점 처리함.
 
 
 ### 참고자료
+* http://www.hallym.ac.kr
 * http://smart.hallym.ac.kr
