@@ -15,59 +15,64 @@
    * 면담 시간: 언제든지.
    * Email: xxx@hallym.ac.kr = 과제 및 프로젝트 관련 질의
 
+## 교과목 공지사항
+* 5월 6일: xxx
+* 6월 10일: xxx
+* 9월 10일: yyy
+
+
 ## 교과목 설명
 
 본 교과목에서는....
-
 
 ## 선행교과목
 
 * SW 열정
 
 ## 교과 스케줄
-* 1 week- 교과목 소개
+* **1 week- 교과목 소개**
    * XXX 
    * Lab: xxxx
-* 2 week- XXX
+* **2 week- XXX**
    * YYY
    * ZZZ
-   * Lab: xxxx
-* 3 week- KKK
+   * **Lab**: xxxx
+* **3 week- KKK**
    * DDDD
    * GGG
-   * Lab: xxxx
-* 4 week- ddd
+   * **Lab**: xxxx
+* **4 week- ddd**
    * dddd
-   * Lab:
-* 5 week- dddd
+   * **Lab**:
+* **5 week- dddd**
    * dddd
    * dddd
-   * Lab:
-* 6 week- dddd
+   * **Lab**:
+* **6 week- dddd**
    * XXX 
-   * Quiz 1 
-* 7 week- xxx
-   * xxx
-   * xxx
-   * Labs: xxx
-* 8 week- xxx
+   * **Quiz 1** 
+* **7 week- 중간고사 시험**
+* **8 week- xxx**
    * xxx
    * xxxx
-* 9 week-  xxx
-* 10 week- xxx
+* **9 week-  xxx**
    * xxx
    * xxx
-* 11 week-  xxx
+   * **Labs**: xxx
+* **10 week- xxx**
+   * xxx
+   * xxx
+* **11 week-  xxx**
    * xxx
    * xxx
    * xxxx
    * xxx
-* 12 week- xxx
+* **12 week- xxx**
    * xxx
    * xxx
-* 13 week- xxx
+* **13 week- xxx**
    * xxx
-* 14 week- 기말고사 및 프로젝트 발표
+* **14 week- 기말고사 및 프로젝트 발표**
 
 ## 평가
 * 시험: 30%
@@ -78,6 +83,7 @@
 ## 과제 / 프로젝트
 * XXX
 * XXX
+
 *** 타인의 과제를 복제하는 경우 과제 점수를 0점 처리함.
 
 
